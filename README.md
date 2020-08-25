@@ -15,5 +15,5 @@ Data Source : https://www.kaggle.com/c/tweet-sentiment-extraction/data
 
 #### Credits
 
-Data Source: [Kaggle](https://www.kaggle.com/c/tweet-sentiment-extraction/data)
-GloVe 100D embeddings: [Laurence Moroney](https://github.com/lmoroney)
+* Data Source: [Kaggle](https://www.kaggle.com/c/tweet-sentiment-extraction/data)
+* GloVe 100D embeddings: [Laurence Moroney](https://github.com/lmoroney)
